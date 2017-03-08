@@ -1,6 +1,7 @@
 Pluto n'est pas une planete anyway.
-<<<<<<< HEAD
+
 Pluto is just a dog in disney movie
-=======
+
+
 Pluto is just a hot-dog ou chien-chaud
 >>>>>>> 1bef492b8494adcb93a375a45f3ad4ff94b9143d
